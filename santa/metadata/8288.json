@@ -1,0 +1,23 @@
+{
+    "description": "ERC20721 Is ERC20 + ERC721 and functions both in Uniswap, and Opensea.",
+    "image": "https://github.com/SerecThunderson/assets/tree/main/santa/assets/8288.png",
+    "name": "Santa Hat 8288",
+    "attributes": [
+        {
+            "trait_type": "Background Color",
+            "value": 0
+        },
+        {
+            "trait_type": "Main Color",
+            "value": 1
+        },
+        {
+            "trait_type": "Trim Color",
+            "value": 2
+        },
+        {
+            "trait_type": "Number",
+            "value": "8288"
+        }
+    ]
+}
