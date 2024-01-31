@@ -1,0 +1,19 @@
+{
+    "description": "ERC20721 Is ERC20 + ERC721 and functions both in Uniswap, and Opensea.",
+    "image": "https://raw.githubusercontent.com/SerecThunderson/assets/main/emeralds/assets/6005_66d4ff_ff1f9e.png",
+    "name": "Uniswap Emerald 6005",
+    "attributes": [
+        {
+            "trait_type": "Accent Color",
+            "value": "#66d4ff"
+        },
+        {
+            "trait_type": "Primary Color",
+            "value": "#ff1f9e"
+        },
+        {
+            "trait_type": "Number",
+            "value": "6005"
+        }
+    ]
+}
