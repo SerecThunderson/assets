@@ -1,0 +1,19 @@
+{
+    "description": "Free brick for Christmas",
+    "image": "https://raw.githubusercontent.com/SerecThunderson/assets/main/bricks/assets/09962_1600a0.png",
+    "name": "Deep Blue Christmas Brick 9962",
+    "attributes": [
+        {
+            "trait_type": "Color (Hex)",
+            "value": "#1600a0"
+        },
+        {
+            "trait_type": "Color (Name)",
+            "value": "Deep Blue"
+        },
+        {
+            "trait_type": "Number",
+            "value": "9962"
+        }
+    ]
+}

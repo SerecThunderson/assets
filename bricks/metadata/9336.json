@@ -1,0 +1,19 @@
+{
+    "description": "Free brick for Christmas",
+    "image": "https://raw.githubusercontent.com/SerecThunderson/assets/main/bricks/assets/09336_7dffba.png",
+    "name": "Aqua Christmas Brick 9336",
+    "attributes": [
+        {
+            "trait_type": "Color (Hex)",
+            "value": "#7dffba"
+        },
+        {
+            "trait_type": "Color (Name)",
+            "value": "Aqua"
+        },
+        {
+            "trait_type": "Number",
+            "value": "9336"
+        }
+    ]
+}

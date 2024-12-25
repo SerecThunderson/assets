@@ -1,0 +1,19 @@
+{
+    "description": "Free brick for Christmas",
+    "image": "https://raw.githubusercontent.com/SerecThunderson/assets/main/bricks/assets/08534_00d26c.png",
+    "name": "Teal Christmas Brick 8534",
+    "attributes": [
+        {
+            "trait_type": "Color (Hex)",
+            "value": "#00d26c"
+        },
+        {
+            "trait_type": "Color (Name)",
+            "value": "Teal"
+        },
+        {
+            "trait_type": "Number",
+            "value": "8534"
+        }
+    ]
+}

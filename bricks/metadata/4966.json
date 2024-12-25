@@ -1,0 +1,19 @@
+{
+    "description": "Free brick for Christmas",
+    "image": "https://raw.githubusercontent.com/SerecThunderson/assets/main/bricks/assets/04966_b21900.png",
+    "name": "Dark Red Christmas Brick 4966",
+    "attributes": [
+        {
+            "trait_type": "Color (Hex)",
+            "value": "#b21900"
+        },
+        {
+            "trait_type": "Color (Name)",
+            "value": "Dark Red"
+        },
+        {
+            "trait_type": "Number",
+            "value": "4966"
+        }
+    ]
+}

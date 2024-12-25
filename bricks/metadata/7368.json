@@ -1,0 +1,19 @@
+{
+    "description": "Free brick for Christmas",
+    "image": "https://raw.githubusercontent.com/SerecThunderson/assets/main/bricks/assets/07368_d3bbff.png",
+    "name": "Lilac Christmas Brick 7368",
+    "attributes": [
+        {
+            "trait_type": "Color (Hex)",
+            "value": "#d3bbff"
+        },
+        {
+            "trait_type": "Color (Name)",
+            "value": "Lilac"
+        },
+        {
+            "trait_type": "Number",
+            "value": "7368"
+        }
+    ]
+}

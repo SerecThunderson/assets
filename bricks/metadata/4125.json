@@ -1,0 +1,19 @@
+{
+    "description": "Free brick for Christmas",
+    "image": "https://raw.githubusercontent.com/SerecThunderson/assets/main/bricks/assets/04125_b24f00.png",
+    "name": "Dark Orange Christmas Brick 4125",
+    "attributes": [
+        {
+            "trait_type": "Color (Hex)",
+            "value": "#b24f00"
+        },
+        {
+            "trait_type": "Color (Name)",
+            "value": "Dark Orange"
+        },
+        {
+            "trait_type": "Number",
+            "value": "4125"
+        }
+    ]
+}

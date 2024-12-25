@@ -1,0 +1,19 @@
+{
+    "description": "Free brick for Christmas",
+    "image": "https://raw.githubusercontent.com/SerecThunderson/assets/main/bricks/assets/01398_3a6000.png",
+    "name": "Dark Lime Christmas Brick 1398",
+    "attributes": [
+        {
+            "trait_type": "Color (Hex)",
+            "value": "#3a6000"
+        },
+        {
+            "trait_type": "Color (Name)",
+            "value": "Dark Lime"
+        },
+        {
+            "trait_type": "Number",
+            "value": "1398"
+        }
+    ]
+}

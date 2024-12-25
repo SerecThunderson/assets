@@ -1,0 +1,19 @@
+{
+    "description": "Free brick for Christmas",
+    "image": "https://raw.githubusercontent.com/SerecThunderson/assets/main/bricks/assets/03744_454545.png",
+    "name": "Gray Christmas Brick 3744",
+    "attributes": [
+        {
+            "trait_type": "Color (Hex)",
+            "value": "#454545"
+        },
+        {
+            "trait_type": "Color (Name)",
+            "value": "Gray"
+        },
+        {
+            "trait_type": "Number",
+            "value": "3744"
+        }
+    ]
+}

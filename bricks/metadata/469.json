@@ -1,0 +1,19 @@
+{
+    "description": "Free brick for Christmas",
+    "image": "https://raw.githubusercontent.com/SerecThunderson/assets/main/bricks/assets/00469_5e5e5e.png",
+    "name": "Medium Gray Christmas Brick 469",
+    "attributes": [
+        {
+            "trait_type": "Color (Hex)",
+            "value": "#5e5e5e"
+        },
+        {
+            "trait_type": "Color (Name)",
+            "value": "Medium Gray"
+        },
+        {
+            "trait_type": "Number",
+            "value": "469"
+        }
+    ]
+}

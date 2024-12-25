@@ -1,0 +1,19 @@
+{
+    "description": "Free brick for Christmas",
+    "image": "https://raw.githubusercontent.com/SerecThunderson/assets/main/bricks/assets/02765_d01147.png",
+    "name": "Dark Pink Christmas Brick 2765",
+    "attributes": [
+        {
+            "trait_type": "Color (Hex)",
+            "value": "#d01147"
+        },
+        {
+            "trait_type": "Color (Name)",
+            "value": "Dark Pink"
+        },
+        {
+            "trait_type": "Number",
+            "value": "2765"
+        }
+    ]
+}

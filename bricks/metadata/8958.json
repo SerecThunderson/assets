@@ -1,0 +1,19 @@
+{
+    "description": "Free brick for Christmas",
+    "image": "https://raw.githubusercontent.com/SerecThunderson/assets/main/bricks/assets/08958_00e2ba.png",
+    "name": "Light Cyan Christmas Brick 8958",
+    "attributes": [
+        {
+            "trait_type": "Color (Hex)",
+            "value": "#00e2ba"
+        },
+        {
+            "trait_type": "Color (Name)",
+            "value": "Light Cyan"
+        },
+        {
+            "trait_type": "Number",
+            "value": "8958"
+        }
+    ]
+}

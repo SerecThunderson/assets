@@ -1,0 +1,19 @@
+{
+    "description": "Free brick for Christmas",
+    "image": "https://raw.githubusercontent.com/SerecThunderson/assets/main/bricks/assets/09077_6fa400.png",
+    "name": "Lime Christmas Brick 9077",
+    "attributes": [
+        {
+            "trait_type": "Color (Hex)",
+            "value": "#6fa400"
+        },
+        {
+            "trait_type": "Color (Name)",
+            "value": "Lime"
+        },
+        {
+            "trait_type": "Number",
+            "value": "9077"
+        }
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "description": "Free brick for Christmas",
+    "image": "https://raw.githubusercontent.com/SerecThunderson/assets/main/bricks/assets/05030_aeaeae.png",
+    "name": "Very Light Gray Christmas Brick 5030",
+    "attributes": [
+        {
+            "trait_type": "Color (Hex)",
+            "value": "#aeaeae"
+        },
+        {
+            "trait_type": "Color (Name)",
+            "value": "Very Light Gray"
+        },
+        {
+            "trait_type": "Number",
+            "value": "5030"
+        }
+    ]
+}

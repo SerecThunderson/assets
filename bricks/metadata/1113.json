@@ -1,0 +1,19 @@
+{
+    "description": "Free brick for Christmas",
+    "image": "https://raw.githubusercontent.com/SerecThunderson/assets/main/bricks/assets/01113_82001e.png",
+    "name": "Burgundy Christmas Brick 1113",
+    "attributes": [
+        {
+            "trait_type": "Color (Hex)",
+            "value": "#82001e"
+        },
+        {
+            "trait_type": "Color (Name)",
+            "value": "Burgundy"
+        },
+        {
+            "trait_type": "Number",
+            "value": "1113"
+        }
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "description": "Free brick for Christmas",
+    "image": "https://raw.githubusercontent.com/SerecThunderson/assets/main/bricks/assets/08670_ffff01.png",
+    "name": "Yellow Christmas Brick 8670",
+    "attributes": [
+        {
+            "trait_type": "Color (Hex)",
+            "value": "#ffff01"
+        },
+        {
+            "trait_type": "Color (Name)",
+            "value": "Yellow"
+        },
+        {
+            "trait_type": "Number",
+            "value": "8670"
+        }
+    ]
+}

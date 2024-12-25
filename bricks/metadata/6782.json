@@ -1,0 +1,19 @@
+{
+    "description": "Free brick for Christmas",
+    "image": "https://raw.githubusercontent.com/SerecThunderson/assets/main/bricks/assets/06782_8a8a8a.png",
+    "name": "Light Gray Christmas Brick 6782",
+    "attributes": [
+        {
+            "trait_type": "Color (Hex)",
+            "value": "#8a8a8a"
+        },
+        {
+            "trait_type": "Color (Name)",
+            "value": "Light Gray"
+        },
+        {
+            "trait_type": "Number",
+            "value": "6782"
+        }
+    ]
+}

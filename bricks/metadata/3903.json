@@ -1,0 +1,19 @@
+{
+    "description": "Free brick for Christmas",
+    "image": "https://raw.githubusercontent.com/SerecThunderson/assets/main/bricks/assets/03903_ffa17d.png",
+    "name": "Peach Christmas Brick 3903",
+    "attributes": [
+        {
+            "trait_type": "Color (Hex)",
+            "value": "#ffa17d"
+        },
+        {
+            "trait_type": "Color (Name)",
+            "value": "Peach"
+        },
+        {
+            "trait_type": "Number",
+            "value": "3903"
+        }
+    ]
+}

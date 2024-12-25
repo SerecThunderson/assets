@@ -1,0 +1,19 @@
+{
+    "description": "Free brick for Christmas",
+    "image": "https://raw.githubusercontent.com/SerecThunderson/assets/main/bricks/assets/05678_00b8b1.png",
+    "name": "Aqua Cyan Christmas Brick 5678",
+    "attributes": [
+        {
+            "trait_type": "Color (Hex)",
+            "value": "#00b8b1"
+        },
+        {
+            "trait_type": "Color (Name)",
+            "value": "Aqua Cyan"
+        },
+        {
+            "trait_type": "Number",
+            "value": "5678"
+        }
+    ]
+}

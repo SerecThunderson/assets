@@ -1,0 +1,19 @@
+{
+    "description": "Free brick for Christmas",
+    "image": "https://raw.githubusercontent.com/SerecThunderson/assets/main/bricks/assets/07618_5e00b6.png",
+    "name": "Royal Purple Christmas Brick 7618",
+    "attributes": [
+        {
+            "trait_type": "Color (Hex)",
+            "value": "#5e00b6"
+        },
+        {
+            "trait_type": "Color (Name)",
+            "value": "Royal Purple"
+        },
+        {
+            "trait_type": "Number",
+            "value": "7618"
+        }
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "description": "Free brick for Christmas",
+    "image": "https://raw.githubusercontent.com/SerecThunderson/assets/main/bricks/assets/09443_ffffff.png",
+    "name": "White Christmas Brick 9443",
+    "attributes": [
+        {
+            "trait_type": "Color (Hex)",
+            "value": "#ffffff"
+        },
+        {
+            "trait_type": "Color (Name)",
+            "value": "White"
+        },
+        {
+            "trait_type": "Number",
+            "value": "9443"
+        }
+    ]
+}

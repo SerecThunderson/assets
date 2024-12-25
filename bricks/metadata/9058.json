@@ -1,0 +1,19 @@
+{
+    "description": "Free brick for Christmas",
+    "image": "https://raw.githubusercontent.com/SerecThunderson/assets/main/bricks/assets/09058_004c2e.png",
+    "name": "Forest Green Christmas Brick 9058",
+    "attributes": [
+        {
+            "trait_type": "Color (Hex)",
+            "value": "#004c2e"
+        },
+        {
+            "trait_type": "Color (Name)",
+            "value": "Forest Green"
+        },
+        {
+            "trait_type": "Number",
+            "value": "9058"
+        }
+    ]
+}

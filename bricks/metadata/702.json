@@ -1,0 +1,19 @@
+{
+    "description": "Free brick for Christmas",
+    "image": "https://raw.githubusercontent.com/SerecThunderson/assets/main/bricks/assets/00702_00f266.png",
+    "name": "Bright Teal Christmas Brick 702",
+    "attributes": [
+        {
+            "trait_type": "Color (Hex)",
+            "value": "#00f266"
+        },
+        {
+            "trait_type": "Color (Name)",
+            "value": "Bright Teal"
+        },
+        {
+            "trait_type": "Number",
+            "value": "702"
+        }
+    ]
+}

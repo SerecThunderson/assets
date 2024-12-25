@@ -1,0 +1,19 @@
+{
+    "description": "Free brick for Christmas",
+    "image": "https://raw.githubusercontent.com/SerecThunderson/assets/main/bricks/assets/02079_00619a.png",
+    "name": "Slate Blue Christmas Brick 2079",
+    "attributes": [
+        {
+            "trait_type": "Color (Hex)",
+            "value": "#00619a"
+        },
+        {
+            "trait_type": "Color (Name)",
+            "value": "Slate Blue"
+        },
+        {
+            "trait_type": "Number",
+            "value": "2079"
+        }
+    ]
+}

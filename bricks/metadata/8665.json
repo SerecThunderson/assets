@@ -1,0 +1,19 @@
+{
+    "description": "Free brick for Christmas",
+    "image": "https://raw.githubusercontent.com/SerecThunderson/assets/main/bricks/assets/08665_ffa801.png",
+    "name": "Gold Christmas Brick 8665",
+    "attributes": [
+        {
+            "trait_type": "Color (Hex)",
+            "value": "#ffa801"
+        },
+        {
+            "trait_type": "Color (Name)",
+            "value": "Gold"
+        },
+        {
+            "trait_type": "Number",
+            "value": "8665"
+        }
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "description": "Free brick for Christmas",
+    "image": "https://raw.githubusercontent.com/SerecThunderson/assets/main/bricks/assets/01660_f5b5ff.png",
+    "name": "Light Pink Magenta Christmas Brick 1660",
+    "attributes": [
+        {
+            "trait_type": "Color (Hex)",
+            "value": "#f5b5ff"
+        },
+        {
+            "trait_type": "Color (Name)",
+            "value": "Light Pink Magenta"
+        },
+        {
+            "trait_type": "Number",
+            "value": "1660"
+        }
+    ]
+}

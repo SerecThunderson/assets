@@ -1,0 +1,19 @@
+{
+    "description": "Free brick for Christmas",
+    "image": "https://raw.githubusercontent.com/SerecThunderson/assets/main/bricks/assets/05414_cbff83.png",
+    "name": "Mint Christmas Brick 5414",
+    "attributes": [
+        {
+            "trait_type": "Color (Hex)",
+            "value": "#cbff83"
+        },
+        {
+            "trait_type": "Color (Name)",
+            "value": "Mint"
+        },
+        {
+            "trait_type": "Number",
+            "value": "5414"
+        }
+    ]
+}

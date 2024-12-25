@@ -1,0 +1,19 @@
+{
+    "description": "Free brick for Christmas",
+    "image": "https://raw.githubusercontent.com/SerecThunderson/assets/main/bricks/assets/00775_00c000.png",
+    "name": "Green Christmas Brick 775",
+    "attributes": [
+        {
+            "trait_type": "Color (Hex)",
+            "value": "#00c000"
+        },
+        {
+            "trait_type": "Color (Name)",
+            "value": "Green"
+        },
+        {
+            "trait_type": "Number",
+            "value": "775"
+        }
+    ]
+}

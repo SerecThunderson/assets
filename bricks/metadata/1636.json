@@ -1,0 +1,19 @@
+{
+    "description": "Free brick for Christmas",
+    "image": "https://raw.githubusercontent.com/SerecThunderson/assets/main/bricks/assets/01636_2d2d2d.png",
+    "name": "Dark Gray Christmas Brick 1636",
+    "attributes": [
+        {
+            "trait_type": "Color (Hex)",
+            "value": "#2d2d2d"
+        },
+        {
+            "trait_type": "Color (Name)",
+            "value": "Dark Gray"
+        },
+        {
+            "trait_type": "Number",
+            "value": "1636"
+        }
+    ]
+}

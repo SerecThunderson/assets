@@ -1,0 +1,19 @@
+{
+    "description": "Free brick for Christmas",
+    "image": "https://raw.githubusercontent.com/SerecThunderson/assets/main/bricks/assets/05327_00705e.png",
+    "name": "Deep Teal Christmas Brick 5327",
+    "attributes": [
+        {
+            "trait_type": "Color (Hex)",
+            "value": "#00705e"
+        },
+        {
+            "trait_type": "Color (Name)",
+            "value": "Deep Teal"
+        },
+        {
+            "trait_type": "Number",
+            "value": "5327"
+        }
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "description": "Free brick for Christmas",
+    "image": "https://raw.githubusercontent.com/SerecThunderson/assets/main/bricks/assets/04546_9fb5ff.png",
+    "name": "Periwinkle Christmas Brick 4546",
+    "attributes": [
+        {
+            "trait_type": "Color (Hex)",
+            "value": "#9fb5ff"
+        },
+        {
+            "trait_type": "Color (Name)",
+            "value": "Periwinkle"
+        },
+        {
+            "trait_type": "Number",
+            "value": "4546"
+        }
+    ]
+}

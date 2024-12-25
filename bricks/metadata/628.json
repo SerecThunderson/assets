@@ -1,0 +1,19 @@
+{
+    "description": "Free brick for Christmas",
+    "image": "https://raw.githubusercontent.com/SerecThunderson/assets/main/bricks/assets/00628_ee0000.png",
+    "name": "Red Christmas Brick 628",
+    "attributes": [
+        {
+            "trait_type": "Color (Hex)",
+            "value": "#ee0000"
+        },
+        {
+            "trait_type": "Color (Name)",
+            "value": "Red"
+        },
+        {
+            "trait_type": "Number",
+            "value": "628"
+        }
+    ]
+}

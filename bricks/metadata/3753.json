@@ -1,0 +1,19 @@
+{
+    "description": "Free brick for Christmas",
+    "image": "https://raw.githubusercontent.com/SerecThunderson/assets/main/bricks/assets/03753_7f85ff.png",
+    "name": "Lavender Blue Christmas Brick 3753",
+    "attributes": [
+        {
+            "trait_type": "Color (Hex)",
+            "value": "#7f85ff"
+        },
+        {
+            "trait_type": "Color (Name)",
+            "value": "Lavender Blue"
+        },
+        {
+            "trait_type": "Number",
+            "value": "3753"
+        }
+    ]
+}

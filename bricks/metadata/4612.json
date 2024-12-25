@@ -1,0 +1,19 @@
+{
+    "description": "Free brick for Christmas",
+    "image": "https://raw.githubusercontent.com/SerecThunderson/assets/main/bricks/assets/04612_a80082.png",
+    "name": "Deep Magenta Christmas Brick 4612",
+    "attributes": [
+        {
+            "trait_type": "Color (Hex)",
+            "value": "#a80082"
+        },
+        {
+            "trait_type": "Color (Name)",
+            "value": "Deep Magenta"
+        },
+        {
+            "trait_type": "Number",
+            "value": "4612"
+        }
+    ]
+}

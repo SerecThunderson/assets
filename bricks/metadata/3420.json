@@ -1,0 +1,19 @@
+{
+    "description": "Free brick for Christmas",
+    "image": "https://raw.githubusercontent.com/SerecThunderson/assets/main/bricks/assets/03420_0000f4.png",
+    "name": "Vivid Blue Christmas Brick 3420",
+    "attributes": [
+        {
+            "trait_type": "Color (Hex)",
+            "value": "#0000f4"
+        },
+        {
+            "trait_type": "Color (Name)",
+            "value": "Vivid Blue"
+        },
+        {
+            "trait_type": "Number",
+            "value": "3420"
+        }
+    ]
+}

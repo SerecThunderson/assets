@@ -1,0 +1,19 @@
+{
+    "description": "Free brick for Christmas",
+    "image": "https://raw.githubusercontent.com/SerecThunderson/assets/main/bricks/assets/04945_6c0044.png",
+    "name": "Crimson Christmas Brick 4945",
+    "attributes": [
+        {
+            "trait_type": "Color (Hex)",
+            "value": "#6c0044"
+        },
+        {
+            "trait_type": "Color (Name)",
+            "value": "Crimson"
+        },
+        {
+            "trait_type": "Number",
+            "value": "4945"
+        }
+    ]
+}

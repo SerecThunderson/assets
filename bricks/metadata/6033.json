@@ -1,0 +1,19 @@
+{
+    "description": "Free brick for Christmas",
+    "image": "https://raw.githubusercontent.com/SerecThunderson/assets/main/bricks/assets/06033_3962ff.png",
+    "name": "Blue Christmas Brick 6033",
+    "attributes": [
+        {
+            "trait_type": "Color (Hex)",
+            "value": "#3962ff"
+        },
+        {
+            "trait_type": "Color (Name)",
+            "value": "Blue"
+        },
+        {
+            "trait_type": "Number",
+            "value": "6033"
+        }
+    ]
+}

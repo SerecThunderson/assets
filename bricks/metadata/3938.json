@@ -1,0 +1,19 @@
+{
+    "description": "Free brick for Christmas",
+    "image": "https://raw.githubusercontent.com/SerecThunderson/assets/main/bricks/assets/03938_008296.png",
+    "name": "Slate Cyan Christmas Brick 3938",
+    "attributes": [
+        {
+            "trait_type": "Color (Hex)",
+            "value": "#008296"
+        },
+        {
+            "trait_type": "Color (Name)",
+            "value": "Slate Cyan"
+        },
+        {
+            "trait_type": "Number",
+            "value": "3938"
+        }
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "description": "Free brick for Christmas",
+    "image": "https://raw.githubusercontent.com/SerecThunderson/assets/main/bricks/assets/03176_000000.png",
+    "name": "Black Christmas Brick 3176",
+    "attributes": [
+        {
+            "trait_type": "Color (Hex)",
+            "value": "#000000"
+        },
+        {
+            "trait_type": "Color (Name)",
+            "value": "Black"
+        },
+        {
+            "trait_type": "Number",
+            "value": "3176"
+        }
+    ]
+}

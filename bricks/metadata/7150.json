@@ -1,0 +1,19 @@
+{
+    "description": "Free brick for Christmas",
+    "image": "https://raw.githubusercontent.com/SerecThunderson/assets/main/bricks/assets/07150_f85100.png",
+    "name": "Vivid Orange Christmas Brick 7150",
+    "attributes": [
+        {
+            "trait_type": "Color (Hex)",
+            "value": "#f85100"
+        },
+        {
+            "trait_type": "Color (Name)",
+            "value": "Vivid Orange"
+        },
+        {
+            "trait_type": "Number",
+            "value": "7150"
+        }
+    ]
+}

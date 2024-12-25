@@ -1,0 +1,19 @@
+{
+    "description": "Free brick for Christmas",
+    "image": "https://raw.githubusercontent.com/SerecThunderson/assets/main/bricks/assets/06807_746a00.png",
+    "name": "Olive Christmas Brick 6807",
+    "attributes": [
+        {
+            "trait_type": "Color (Hex)",
+            "value": "#746a00"
+        },
+        {
+            "trait_type": "Color (Name)",
+            "value": "Olive"
+        },
+        {
+            "trait_type": "Number",
+            "value": "6807"
+        }
+    ]
+}

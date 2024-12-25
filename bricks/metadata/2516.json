@@ -1,0 +1,19 @@
+{
+    "description": "Free brick for Christmas",
+    "image": "https://raw.githubusercontent.com/SerecThunderson/assets/main/bricks/assets/02516_cd00e0.png",
+    "name": "Magenta Christmas Brick 2516",
+    "attributes": [
+        {
+            "trait_type": "Color (Hex)",
+            "value": "#cd00e0"
+        },
+        {
+            "trait_type": "Color (Name)",
+            "value": "Magenta"
+        },
+        {
+            "trait_type": "Number",
+            "value": "2516"
+        }
+    ]
+}

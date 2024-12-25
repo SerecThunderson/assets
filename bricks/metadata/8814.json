@@ -1,0 +1,19 @@
+{
+    "description": "Free brick for Christmas",
+    "image": "https://raw.githubusercontent.com/SerecThunderson/assets/main/bricks/assets/08814_4d0064.png",
+    "name": "Deep Purple Christmas Brick 8814",
+    "attributes": [
+        {
+            "trait_type": "Color (Hex)",
+            "value": "#4d0064"
+        },
+        {
+            "trait_type": "Color (Name)",
+            "value": "Deep Purple"
+        },
+        {
+            "trait_type": "Number",
+            "value": "8814"
+        }
+    ]
+}

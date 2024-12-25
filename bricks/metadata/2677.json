@@ -1,0 +1,19 @@
+{
+    "description": "Free brick for Christmas",
+    "image": "https://raw.githubusercontent.com/SerecThunderson/assets/main/bricks/assets/02677_661bff.png",
+    "name": "Vivid Purple Christmas Brick 2677",
+    "attributes": [
+        {
+            "trait_type": "Color (Hex)",
+            "value": "#661bff"
+        },
+        {
+            "trait_type": "Color (Name)",
+            "value": "Vivid Purple"
+        },
+        {
+            "trait_type": "Number",
+            "value": "2677"
+        }
+    ]
+}

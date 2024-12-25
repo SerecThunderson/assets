@@ -1,0 +1,19 @@
+{
+    "description": "Free brick for Christmas",
+    "image": "https://raw.githubusercontent.com/SerecThunderson/assets/main/bricks/assets/09233_dadada.png",
+    "name": "Almost White Christmas Brick 9233",
+    "attributes": [
+        {
+            "trait_type": "Color (Hex)",
+            "value": "#dadada"
+        },
+        {
+            "trait_type": "Color (Name)",
+            "value": "Almost White"
+        },
+        {
+            "trait_type": "Number",
+            "value": "9233"
+        }
+    ]
+}

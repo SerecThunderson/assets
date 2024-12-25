@@ -1,0 +1,19 @@
+{
+    "description": "Free brick for Christmas",
+    "image": "https://raw.githubusercontent.com/SerecThunderson/assets/main/bricks/assets/08094_ffcf13.png",
+    "name": "Golden Yellow Christmas Brick 8094",
+    "attributes": [
+        {
+            "trait_type": "Color (Hex)",
+            "value": "#ffcf13"
+        },
+        {
+            "trait_type": "Color (Name)",
+            "value": "Golden Yellow"
+        },
+        {
+            "trait_type": "Number",
+            "value": "8094"
+        }
+    ]
+}

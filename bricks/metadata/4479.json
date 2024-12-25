@@ -1,0 +1,19 @@
+{
+    "description": "Free brick for Christmas",
+    "image": "https://raw.githubusercontent.com/SerecThunderson/assets/main/bricks/assets/04479_81dcff.png",
+    "name": "Sky Blue Christmas Brick 4479",
+    "attributes": [
+        {
+            "trait_type": "Color (Hex)",
+            "value": "#81dcff"
+        },
+        {
+            "trait_type": "Color (Name)",
+            "value": "Sky Blue"
+        },
+        {
+            "trait_type": "Number",
+            "value": "4479"
+        }
+    ]
+}
