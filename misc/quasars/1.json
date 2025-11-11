@@ -1,6 +1,6 @@
 {
     "description": "Digital Certification of Marriage License",
-    "image": "https://raw.githubusercontent.com/SerecThunderson/assets/misc/quasars/license.pdf",
+    "image": "https://raw.githubusercontent.com/SerecThunderson/assets/refs/heads/main/misc/quasars/license.png",
     "name": "Marriage License",
     "attributes": [
         {
@@ -28,4 +28,5 @@ You are my heart’s home - my missing piece - my balance - my forever choice. I
 I love you."
         }
     ]
+
 }
